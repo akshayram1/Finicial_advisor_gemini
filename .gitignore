@@ -1,0 +1,36 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+
+# Environment
+.env
+
+# Streamlit
+.streamlit/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Cache
+*.cache
+*.pytest_cache/
+__pycache__/
+
+# Uploads
+uploads/
+
+# Ignore virtual environments
+.venv/
+venv/
